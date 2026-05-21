@@ -22,5 +22,4 @@ This project analyzes electricity access trends across 54 African countries from
 
 ## Dashboard Preview
 
-![Dashboard Preview]
-(dashboard_overview.png)
+![Dashboard Preview](dashboard_overview.png)
